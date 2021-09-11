@@ -1,0 +1,28 @@
+
+PROGRAM OKKKK 
+FUNCTION SIDE (INT a,CHAR b,CHAR c[10])
+VARS
+INT x;
+INT g,b,k,l ;
+CHAR p,k,l[12] ;
+x = y ;
+
+
+SWITCH(x)
+CASE(1):
+x=y;
+CASE(2)
+x=y;
+DEFAULT:
+x=y;
+ENDSWITCH
+
+
+
+RETURN 9;
+END_FUNCTION
+
+STARTMAIN
+
+RETURN 9;
+ENDMAIN

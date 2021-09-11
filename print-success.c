@@ -1,0 +1,19 @@
+
+PROGRAM OKKKK 
+FUNCTION SIDE (INT a,CHAR b,CHAR c[10])
+VARS
+INT x;
+INT g,b,k,l ;
+CHAR p,k,l[12] ;
+x = y ;
+
+PRINT(“κείμενο ”[,var1]);
+
+
+RETURN 9;
+END_FUNCTION
+
+STARTMAIN
+
+RETURN 9;
+ENDMAIN

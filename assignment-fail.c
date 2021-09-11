@@ -1,0 +1,21 @@
+PROGRAM OKKKK  
+FUNCTION abc (INT a)
+VARS
+CHAR p,k,l[12] ;
+
+x===y;
+
+
+RETURN 9;
+END_FUNCTION
+
+
+
+STARTMAIN
+VARS
+
+INT X;
+
+
+RETURN 9;
+ENDMAIN
